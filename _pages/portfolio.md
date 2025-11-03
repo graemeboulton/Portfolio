@@ -2,9 +2,6 @@
 title: "Portfolio"
 permalink: /portfolio/
 ---
-
-# My Portfolio
-
 Welcome to my data portfolio. This page showcases sample SQL queries, interactive Power BI reports, and links to PBIX files you can download and explore.
 
 ## Sample SQL Query
