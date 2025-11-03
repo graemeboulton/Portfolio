@@ -19,11 +19,11 @@ Write a brief summary about your professional background and career goals here.
 Promoted to board-level to establish a strategic technology function integrating Data Science, Software Engineering, and IT Operations into the business’s long-term roadmap. Focused on enabling data-led decision-making and building in-house capability for analytics and development.
 
 Acheivemnts:
-• Elevated data visibility at board level, embedding performance reporting into strategic and operational planning.
-• Built in-house teams across Data Science, IT, and Software Engineering, growing department headcount sixfold.
-• Led transformation that quadrupled technology investment while improving efficiency and transparency.
-• Oversaw the development of in-house data-driven applications, including machine learning forecasting models (DeepAR).
-• Achieved PCI and GDPR compliance, strengthened cybersecurity, and completed O365 and infrastructure migrations.
+- Elevated data visibility at board level, embedding performance reporting into strategic and operational planning.
+- Built in-house teams across Data Science, IT, and Software Engineering, growing department headcount sixfold.
+- Led transformation that quadrupled technology investment while improving efficiency and transparency.
+- Oversaw the development of in-house data-driven applications, including machine learning forecasting models (DeepAR).
+- Achieved PCI and GDPR compliance, strengthened cybersecurity, and completed O365 and infrastructure migrations.
 
 
 
