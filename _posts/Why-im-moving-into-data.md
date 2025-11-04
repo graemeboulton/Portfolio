@@ -1,5 +1,5 @@
 ---
-title: "Welcome!"
+title: "Why I decided a role in data was right for me!"
 date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
