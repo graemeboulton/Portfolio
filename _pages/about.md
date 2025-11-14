@@ -22,10 +22,3 @@ A. So there's a few reasons, let me break them down 1) in senior tech roles it c
 **Will I have any difficulties dropped in seniority?**
 
 A. Absolutely not - infact it's something I'm actually looking forwrd too! 
-
-
-
-
-
-
-My journey with PowerBI actually started in early 2020, during covid, at a time when all staff in the business were on furlogh.
