@@ -10,8 +10,15 @@ permalink: /cv/
 - **Contact:** [email@graemeboulton.com](mailto:email@graemeboulton.com)  
 - **LinkedIn:** [linkedin.com/in/graemeboulton](https://www.linkedin.com/in/graemeboulton/)  
 
-## Summary  
-Write a brief summary about your professional background and career goals here.  
+## Relevant Technical Skills  
+Excel - Advanced
+PowerBi - Advanced
+SQL - Intermediate
+Statistical - Intermediate
+Python - Beginner
+
+
+
 
 ## Work Experience  
 
