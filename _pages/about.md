@@ -2,23 +2,58 @@
 permalink: /about/
 title: "About"
 ---
+Hey, I’m Graeme — welcome to my portfolio site.
 
-Hey, I'm Graeme and welcome to my portfolio site.
+This page isn’t here to repeat my CV, but to share a bit more about why I’m passionate about data, how hands-on I’ve remained throughout my career, and why I’m now fully committing to a data-focused path. But first, here's a little about me..
 
-I'm 40 years old, originally from central Scotland and now based in the lovely town of Morpeth, in Northumberland. I moved to the North East in late 2001 and have never looked back!
+I’m 40 years old, originally from central Scotland and now living in the beautiful town of Morpeth, Northumberland. I moved to the North East back in 2001 and have never looked back.
 
-I have two wonderful children aged 12 and 9 and an equally wonderful partner, who's age is to remain private :D
+I have two wonderful children, aged 12 and 9, and an equally wonderful partner (whose age will suitably remain private 😄).
 
-I wanted to use this page, not to re-hash my c.v. but explain a little about my passion for data and to answer a couple of key questions that I 'think' a recruiter may have..
+⸻
 
-**Why transition into data?**
+My Passion for Data
 
-Data has been a constant across all of my roles. During my time in e-commerce I was burried in Google Analytics data, daily. When I moved into multi-channel I designed a loyalty scheme and implemented a CRM system. During Covid I build the companies PowerBi architecture and more laterally I worked across IT, Data and Dev on various projects, one example being an ML application to predict sales and suggest stock movements. I loved all of those types of work and would like to spend more time doing that.
+I’m not entirely sure where it started, but my fascination with data goes right back to my mid-teens. When I studied a general ICT course at college, the subject I was most excited about was databases. I didn’t understand how they worked at the time — it genuinely felt like magic — and I was desperate to learn more.
 
-**Why did I quit a director level role to focus on a data role?**
+Unfortunately, the course skimmed over data and focused heavily on web development, which shaped the early part of my career (as my CV reflects). But that curiosity for how data works never left. It’s always been an itch I’ve wanted to scratch properly.
 
-A. So there's a few reasons, let me break them down 1) in senior tech roles it can be a bit manic and there is always sense that you're chasing your tail and spinning an increasing number of plates - I would like to put a few plates down and spin them much better. 2) I delivered large transformation projects for several years and they are relentless. I'm absolutely not afraid of hard work, its in my DNA, but burn out is real and it happened to me. After delivering my last project, I knew I'd left the business in a good state and I was ready for a new challenge in an area I love - data.
+⸻
 
-**Will I have any difficulties dropped in seniority?**
+How Hands-On Have I Been Despite Senior Roles?
 
-A. Absolutely not - infact it's something I'm actually looking forwrd too! 
+Data has been a core part of every role I’ve held.
+
+E-commerce:
+I spent years buried in Google Analytics — analysing performance daily, building dashboards, and producing board-level reporting long before I joined the board myself.
+
+Multi-channel & Loyalty:
+When I moved into a wider commercial role, my usage of analytics grew even deeper. I designed and implemented a loyalty programme and was responsible for everything from segmentation to reporting to data quality tasks such as cleansing, migration, integration, and governance.
+
+During Covid (on furlough):
+I built the company’s entire Power BI architecture from the ground up.
+I designed and managed the full ETL layer using dataflows, which involved complex cleansing and transformation. I created dozens of operational dashboards covering sales, footfall, conversion, customer metrics, employee KPIs and much more. I also built a comprehensive board-level reporting app spanning retail, merchandising, HR, marketing, and technology.
+
+Major Data & ML Projects:
+I’ve led several transformation projects, but one of the most relevant is a machine learning initiative focused on forecasting sales and optimising inventory movement. This project, completed through the UK government’s KTP programme, was awarded the highest possible grade — and the resulting academic paper was later picked up by a prestigious US university:
+https://www.sciencedirect.com/science/article/pii/S0957417424030677￼
+
+⸻
+
+Why I Chose to Leave a Director-Level Role to Focus on Data
+
+There are a few reasons:
+	1.	Senior tech roles can be incredibly intense. You’re constantly spinning plates, and those plates increase year after year. I wanted to focus on fewer things but do them exceptionally well.
+	2.	After years of delivering major transformations, burnout is real. I’m not afraid of hard work — far from it — but I recognised the toll and knew it was time for a new challenge.
+	3.	Data is what I genuinely love. Stepping away from a senior leadership position wasn’t a step backwards — it was a deliberate choice to move toward the work that energises me the most.
+
+⸻
+
+Will I Have Any Difficulty Stepping Down in Seniority?
+
+Absolutely not.
+In fact, I’m genuinely looking forward to it.
+
+I’m excited to be more hands-on, more technical, and to continue learning and building meaningful solutions. I see this move not as a drop in seniority, but as a refocusing toward what I enjoy and what I want the next chapter of my career to be about.
+
+⸻
