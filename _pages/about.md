@@ -6,13 +6,13 @@ Hey, I’m Graeme — welcome to my portfolio site.
 
 This page isn’t here to repeat my CV, but to share a bit more about why I’m passionate about data, how hands-on I’ve remained throughout my career, and why I’m now fully committing to a data-focused path. But first, here's a little about me..
 
-I’m 40 years old, originally from central Scotland and now living in the beautiful town of Morpeth, Northumberland. I moved to the North East back in 2001 and have never looked back.
+I’m 40 years old, originally from central Scotland and now living in the beautiful town of Morpeth, Northumberland. 
 
 I have two wonderful children, aged 12 and 9, and an equally wonderful partner (whose age will suitably remain private 😄).
 
 ⸻
 
-My Passion for Data
+**My Passion for Data**
 
 I’m not entirely sure where it started, but my fascination with data goes right back to my mid-teens. When I studied a general ICT course at college, the subject I was most excited about was databases. I didn’t understand how they worked at the time — it genuinely felt like magic — and I was desperate to learn more.
 
@@ -20,7 +20,7 @@ Unfortunately, the course skimmed over data and focused heavily on web developme
 
 ⸻
 
-How Hands-On Have I Been Despite Senior Roles?
+**How Hands-On Have I Been Despite Senior Roles?**
 
 Data has been a core part of every role I’ve held.
 
@@ -40,7 +40,7 @@ https://www.sciencedirect.com/science/article/pii/S0957417424030677￼
 
 ⸻
 
-Why I Chose to Leave a Director-Level Role to Focus on Data
+**Why I Chose to Leave a Director-Level Role to Focus on Data**
 
 There are a few reasons:
 	1.	Senior tech roles can be incredibly intense. You’re constantly spinning plates, and those plates increase year after year. I wanted to focus on fewer things but do them exceptionally well.
@@ -49,7 +49,7 @@ There are a few reasons:
 
 ⸻
 
-Will I Have Any Difficulty Stepping Down in Seniority?
+**Will I Have Any Difficulty Stepping Down in Seniority?**
 
 Absolutely not.
 In fact, I’m genuinely looking forward to it.
