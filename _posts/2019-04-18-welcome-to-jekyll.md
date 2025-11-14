@@ -7,17 +7,21 @@ categories:
 
 Hey, let me tell you a bit about this project..
 
-Server:
+**Server:**
+
 I provisioned an Azure Database for PostgreSQL flexible server
 
-Database: 
+**Database:** 
+
 I have recently completed a SQL course and the sample database it used the most was the DVD Rental sample. More information can be found about that here - https://neon.com/postgresql/postgresql-getting-started/postgresql-sample-database.
 
-Custom SQL:
+**Custom SQL:**
+
 I added a trading_calendar date table into the DVD Rental database, which I'll use for the majority of filtering in the PBI report. I created this table as it mirrored the trading calendar from my previous role. In that business the calendar actually existed in an Excel document, so that it could be easily updated by people who did not have SQL skills. The trading year runs from Jan - Feb, so aligning all of the weeks, months etc was a good test. As it was my first piece of work I will admit to getting some assistance from ChatGPT and I used it to clean it up at the end so that it was nice and readable - the code for this is at the bottom.
 
 
-PowerBI:
+**PowerBI:**
+
 Within Azure, I made the nessecary config changes to allow the data set to be made available to PowerBI and Fabric and that is how the connection was made.
 
 Here's the pbix file -
