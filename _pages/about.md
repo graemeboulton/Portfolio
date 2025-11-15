@@ -2,7 +2,6 @@
 permalink: /about/
 title: "About"
 ---
-Hey, I’m Graeme — welcome to my portfolio site.
 
 This page isn’t here to repeat my CV, but to share a bit more information about me which I *think* will be useful to potential employers and/or recruiters.
 
