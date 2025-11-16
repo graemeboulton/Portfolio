@@ -1,6 +1,6 @@
 ---
 title: "SQL - Creation of bespoke data table"
-date: 2025-11-16 12:00:00 -0500
+date: 2025-11-16 12:00:00 -0800
 categories:
   - blog
 ---
