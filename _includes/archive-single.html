@@ -17,7 +17,7 @@
       {{ post.content | number_of_words }}
     {% endcapture %}
 
-    {% assign minutes = words | plus:0 | divided_by:180 %}
+    {% assign minutes = words | plus:0 | divided_by:360 %}
     {% assign minutes = minutes | ceil %}
 
     <span class="page__meta-readtime">
