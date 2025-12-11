@@ -6,11 +6,12 @@ categories:
 published: true
 ---
 
+Here is a high-level summary of this project. I will post a deep-dive into the finer details, but for now it explains how it was pulled together.
+
 ---
 
 ## Reed Job Pipeline — Project Summary
 
-See below a high-level summary of this project. I will post a deep-dive into the finer details, but for now it explains how it was pulled together.
 
 This project is an end-to-end data pipeline built to ingest job-market data from the Reed.co.uk API, transform and enrich it, and surface insights through a dimensional PostgreSQL warehouse and Power BI.
 
