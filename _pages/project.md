@@ -1,4 +1,3 @@
-
 ---
 permalink: /project/
 title: "Project"
