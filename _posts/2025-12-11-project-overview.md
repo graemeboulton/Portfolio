@@ -3,16 +3,18 @@ title: "Technical overview of jobs insight project"
 date: 2025-12-11 12:00:00 +0000
 categories:
   - blog
-published: false
+published: true
 ---
 
 ---
 
 ## Reed Job Pipeline — Project Summary
 
+See below a high-level summary of this project. I will post a deep-dive into the finer details, but for now it explains how it was pulled together.
+
 This project is an end-to-end data pipeline built to ingest job-market data from the Reed.co.uk API, transform and enrich it, and surface insights through a dimensional PostgreSQL warehouse and Power BI.
 
-It demonstrates practical experience across API integration, Python ETL, data modelling, analytics engineering, and dashboarding.
+It demonstrates experience across API integration, Python ETL, data modelling, analytics engineering, and dashboarding.
 
 ### 1) Architecture Summary
 
@@ -97,13 +99,3 @@ Configurable via environment variables:
 * 60+ canonical skills across 6+ domains
 * Salary bands £0–£540k (10k steps)
 * Continuous ingestion with multi-key resiliency
-
-### 8) What this demonstrates
-
-* ✅ Robust API integration (rate-limits/retries)
-* ✅ Clear ETL layering (landing → staging → analytics)
-* ✅ Dimensional modelling for BI
-* ✅ Text processing for skills/seniority/work pattern
-* ✅ Config-driven, scalable design
-* ✅ Optimisation and data-quality safeguards
-* ✅ End-to-end delivery into a live Power BI dashboard
