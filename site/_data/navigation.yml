@@ -5,12 +5,12 @@ menu__settings:
     - title: 'Home'
       url: '/'
     - title: 'My Works'
-      url: '/my-works/'
+      url: '/my-works.html'
     - title: 'Blog'
-      url: '/blog/'
+      url: '/blog.html'
     - title: 'Transitioning into Data'
-      url: '/transitioning-into-data/'
+      url: '/transitioning-into-data.html'
     - title: 'C.V'
-      url: '/cv/'
+      url: '/cv.html'
 
 
