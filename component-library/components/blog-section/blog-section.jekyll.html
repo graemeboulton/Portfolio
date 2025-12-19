@@ -16,7 +16,8 @@
           {% if include.show_posts %}
           <div class="row">
             {% if site.posts.size > 0 %}
-              {% for post in site.posts offset:0 limit:3 %}
+              {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+              {% for post in sorted_posts offset:0 limit:3 %}
                 {% bookshop blog-card post=post %}
               {% endfor %}
             {% endif %}
