@@ -1,5 +1,5 @@
 ---
-date: 2021-12-11 05:20:35 +0300
+date: 2025-12-11 05:20:35 +0300
 title: Jobs Insights Project
 subtitle: End-to-end ETL pipeline using Python, SQL, Azure & Power BI
 image: '/images/job-insights-hero.png'
