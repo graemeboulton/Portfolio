@@ -10,3 +10,5 @@ footer_menu__settings:
       url: '/transitioning-into-data/'
     - title: 'Blog'
       url: '/blog/'
+
+footer_text: '© 2025 Graeme Boulton. All rights reserved.'

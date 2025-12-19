@@ -73,6 +73,24 @@
   }
 }
 
+/* Footer Banner */
+.footer-banner {
+  background: $primary-color;
+  padding: 16px 0;
+  margin-top: 60px;
+
+  &__content {
+    text-align: center;
+    color: $white;
+    font-size: 14px;
+    line-height: 1.4;
+
+    @media only screen and (max-width: $mobile) {
+      font-size: 13px;
+    }
+  }
+}
+
 /* Copyright */
 .copyright {
   margin-top: 20px;
@@ -92,5 +110,23 @@
 
   @media only screen and (max-width: $mobile) {
     font-size: 14px;
+  }
+}
+
+/* Footer Banner */
+.footer-banner {
+  background: $primary-color;
+  padding: 16px 0;
+  margin-top: 60px;
+
+  &__content {
+    text-align: center;
+    color: $white;
+    font-size: 14px;
+    line-height: 1.4;
+
+    @media only screen and (max-width: $mobile) {
+      font-size: 13px;
+    }
   }
 }
