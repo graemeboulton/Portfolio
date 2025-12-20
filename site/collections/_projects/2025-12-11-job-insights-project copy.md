@@ -5,9 +5,9 @@ subtitle: Serverless ETL using Python Azure Functions, SQL, Power Query, DAX & P
 image: '/images/job-insights-hero.png'
 hide_image: true
 ---
-
-<iframe title="Jobs 1" width="800" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMGVhYTAxNjgtOTFiMy00MzVkLWJlYzMtMDIzZDI5N2NkOGFkIiwidCI6IjVkNWVkNWRjLTE1YTctNDljMi05OWU2LWQzYmQ1NzY0YjM1NiJ9&pageName=801249cc78928d02bb84" frameborder="0" allowFullScreen="true"></iframe>
-
+<div style="text-align: center;">
+<iframe title="Jobs 1" width="700" height="500"  src="https://app.powerbi.com/view?r=eyJrIjoiMGVhYTAxNjgtOTFiMy00MzVkLWJlYzMtMDIzZDI5N2NkOGFkIiwidCI6IjVkNWVkNWRjLTE1YTctNDljMi05OWU2LWQzYmQ1NzY0YjM1NiJ9&pageName=801249cc78928d02bb84" frameborder="0" allowFullScreen="true"></iframe>
+</div>
 ---
 
 ## Infrastructure & Architecture
