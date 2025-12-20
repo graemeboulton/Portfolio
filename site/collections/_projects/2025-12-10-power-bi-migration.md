@@ -1,5 +1,5 @@
 ---
-date: 2025-12-19 05:20:35 +0300
+date: 2025-12-10 05:20:35 +0300
 title: Migrating SAP Business Objects to Power BI
 subtitle: Overview of a real-world reporting migration project from my previous role
 image: '/images/power-bi-migration.svg'
