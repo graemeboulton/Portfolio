@@ -1,6 +1,6 @@
 ---
 title: Portfolio Updates & Plans
-date: 2026-01-04 10:01:35 +0300
+date: 2026-01-04 10:00:35 +0300
 ---
 
 I’ve been working fairly fluidly over the last few weeks, trying to strike a balance between covering a decent breadth of skills and keeping the learning varied. Some areas, especially the completely new ones can be pretty intense, so mixing things up a bit feels like a sensible way to use this time well and, importantly, actually enjoy the process.
