@@ -775,3 +775,10 @@ Note: Dashboards are currently in progress
 - **Security groups** used to manage access at scale
 
 ---
+
+## Outcome
+
+- **Fully automated** end-to-end data pipeline
+- **Analytics-ready** data model optimised for Tableau
+- **Daily refreshed** dashboards without manual intervention
+- **Scalable**, production-aligned Azure architecture
