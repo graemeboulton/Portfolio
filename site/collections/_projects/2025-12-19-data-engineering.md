@@ -776,6 +776,3 @@ This dashboard is intentionally light on UI polish. Unlike my first portfolio pr
 
 The emphasis of this project is therefore on pipeline design, transformation logic, data modelling, and tool-agnostic analytics consumption rather than advanced visual styling.
 
-{% include "tableau-embed" title="Customers" viz_url="AdventureWorks-PostPublish/Customers" viz_id="viz1768486181660" host_url="https://public.tableau.com/" width="1000" height="827" toolbar="true" static_image="https://public.tableau.com/static/images/Ad/AdventureWorks-PostPublish/Customers/1_rss.png" %}
-
----
