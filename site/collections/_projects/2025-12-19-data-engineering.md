@@ -776,5 +776,5 @@ Note: Dashboards are currently in progress
 
 ---
 
-{% include "tableau-embed", viz_id: "viz1768489152106", workbook: "AdventureWorks-PostPublish", sheet: "Customers", width: "1000", height: "850" %}
+{% include tableau/adventureworks-customers.html %}
 
