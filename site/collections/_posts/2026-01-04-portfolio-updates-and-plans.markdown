@@ -1,6 +1,6 @@
 ---
 
-title: Portfolio Updates & Plans
+title: New Year Plans
 date: 2026-01-04 10:00:35 +0300
 ---
 
